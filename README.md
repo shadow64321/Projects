@@ -10,4 +10,6 @@
 - location select/fast travel: jungle, forest, rainforest
 - Combat system and random enemy encounter system
 - add health and hunger system
+- add a families system
+- add save files system
 

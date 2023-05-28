@@ -5,6 +5,8 @@ use std::io;
 const FATE:[ &str; 8 ] = [ "Yes", "No", "Maybe", "Just Don't", "Definately", "Not the best idea you've ever had", "One of Your finer ideas", "" ];
 
 fn main() {
+    println!("Enter your question:");
+    
     let mut input = String::new();
     io::stdin().read_line(&mut input);
 
